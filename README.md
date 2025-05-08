@@ -15,7 +15,8 @@ Step - 2 : After processing the data, we need to create visualization in Tableau
 after that we have to check the data label values with our SQL Queries Output . 
 That should be exact match .
 ------------------------------------------------------------------------------------------------------------
-PROBLEM STATEMENTSKPI’s Requirements :
+PROBLEM STATEMENTS KPI’s Requirements :
+
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. 
 Specifically, we want to calculate the following metrics:
 
@@ -31,7 +32,7 @@ Total Orders: The total number of orders placed.
 Average Pizzas Per Order: The average number of pizzas sold per order, 
 calculated by dividing the total number of pizzas sold by the total number of orders.
 ------------------------------------------------------------------------------------------------------------
-PROBLEM STATEMENTSCharts Requirements :
+PROBLEM STATEMENTS Charts Requirements :
 We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends.
 We have identified the following requirements for creating charts:
 
